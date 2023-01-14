@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I'm a information tecnology student specializing in embedded systems and electronics. At the moment I mainly use GitHub for storing and managing important file, but this might change in the future. I will add and update my projects here and on my [Linkedin](https://www.linkedin.com/in/leevi-kinnunen-a4529a22b/) profile.
+I'm a information tecnology student specializing in embedded systems and electronics. At the moment I mainly use GitHub for storing and managing important files, but this might change in the future. I will add updates on my projects here and on my [Linkedin](https://www.linkedin.com/in/leevi-kinnunen-a4529a22b/) profile.
 <br />
 <br />
 ## What I'm working on
