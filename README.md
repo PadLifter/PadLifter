@@ -72,6 +72,13 @@ Board and all connections coated with Lakier PVB 60
 
 ![Radio](https://user-images.githubusercontent.com/122554460/212439030-201892d1-81f7-46db-87c8-8f8bbbaa06ac.jpg)
 
+2.400GHz-2.480GHz
+<br />
+RF Power 250mW
+<br />
+2db antenna gain (folding)
+<br />
+16 control channels
 
 <br />
 <br />
@@ -81,8 +88,22 @@ Board and all connections coated with Lakier PVB 60
 
 ![fpv](https://user-images.githubusercontent.com/122554460/212439181-e4eb84e9-395d-4521-8543-6a30ec2a893f.jpg)
 <br />
+
+FOV 35°
+<br />
+Resolution 1024x768
+<br />
+Aspect ratio 4:3
 <br />
 <br />
+5.8Ghz
+<br />
+6 bands, 48 channels
+<br />
+-96dBm sensitivity
+<br />
+<br />
+
 ## What I'm currently learning
 
 At the moment I'm learning digital Circuits, FPGAs, real-Time operating system for microcontroller applications and embedded systems technologies.
